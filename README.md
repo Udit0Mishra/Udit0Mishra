@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Udit0Mishra
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C++ and front end development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me uditm42@gmail.com
 
